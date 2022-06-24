@@ -1,23 +1,18 @@
-<h1 align='center'> Hola 👋, Soy Joaquín Cortés👨‍💻 </h1>
-<h2>Y este es mi Perfil de Github</h2>
+<h1 align='center'> Hola! Soy Joaquín Cortés👨‍💻 </h1>
+<h4>Y este es mi Perfil de Github</h4>
 
-<p align='center'>
+<div align="center"><p align='center'>
   Programador Web Junior</b> 
-</p>
-
----
+</p></div>
 
 <div align="center">
-<i>Redes:</i><br>
 
 <a href="https://www.linkedin.com/in/joaquin-cortes96" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/cortesjoaco1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/joaco-cortes96?si=11648968786741f3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
-
----
+<br>
 ⚡ Actualmente estoy buscando tener las bases para poder sumergirme en el mundo del desarrollo Blockchain con Solidity.
-
 
 ---
 ###  Tecnologías, Lenguajes y Frameworks
