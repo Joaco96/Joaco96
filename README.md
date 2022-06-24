@@ -1,5 +1,5 @@
 <h1 align='center'> Hola! Soy Joaquín Cortés👨‍💻 </h1>
-<div align="center"><h4>Y este es mi Perfil de Github</h4>
+<div align="center"><h4>Este es mi Perfil de Github</h4>
 
 <p align='center'>
   Programador Web Junior</b> 
