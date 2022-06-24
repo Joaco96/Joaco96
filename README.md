@@ -2,7 +2,7 @@
 <div align="center"><h4>Este es mi Perfil de Github</h4>
 
 <p align='center'>
-Soy Programador Web Junior</b> 
+Soy Programador Web</b> 
 </p></div>
 
 <div align="center">
