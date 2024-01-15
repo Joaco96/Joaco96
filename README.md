@@ -12,7 +12,7 @@ Soy Programador Web</b>
 <a href="https://open.spotify.com/user/joaco-cortes96?si=11648968786741f3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 <br>
-⚡ Actualmente estoy buscando tener las bases para poder sumergirme en el mundo del desarrollo Blockchain con Solidity.
+⚡ ¡Hola! Soy Joaquín, un apasionado diseñador UX/UI y desarrollador web con aspiraciones de crear experiencias digitales excepcionales. Mi enfoque se basa en combinar el diseño innovador con una funcionalidad sólida para entregar soluciones digitales que cautiven a los usuarios y generen resultados tangibles.
 
 ---
 ###  Tecnologías, Lenguajes y Frameworks
