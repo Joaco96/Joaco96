@@ -12,7 +12,33 @@ Soy Programador Web</b>
 <a href="https://open.spotify.com/user/joaco-cortes96?si=11648968786741f3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 <br>
-⚡ ¡Hola! Soy Joaquín, un apasionado diseñador UX/UI y desarrollador web con aspiraciones de crear experiencias digitales excepcionales. Mi enfoque se basa en combinar el diseño innovador con una funcionalidad sólida para entregar soluciones digitales que cautiven a los usuarios y generen resultados tangibles.
+⚡ ¡Hola! Soy Joaquín, un apasionado desarrollador Front-end y diseñador UX/UI con aspiraciones de crear experiencias digitales excepcionales. Mi enfoque se basa en combinar el diseño innovador con una funcionalidad sólida para entregar soluciones digitales que cautiven a los usuarios y generen resultados tangibles.
+
+Me caracteriza el profundo interés por la estética y la tecnología. A lo largo de los años, he tenido la oportunidad de trabajar en una amplia variedad de proyectos que me ha brindado una perspectiva única con la capacidad de adaptarme a diversos desafíos.
+
+Me enorgullece crear interfaces intuitivas y atractivas que guíen a los usuarios a través de un viaje fluido, mejorando la interacción y maximizando la satisfacción. Además, mi experiencia en desarrollo web me permite llevar mis diseños a la vida, utilizando tecnologías modernas para crear sitios web receptivos, optimizados y de alto rendimiento.
+
+Lo que me distingue es mi compromiso con la colaboración y la comunicación. Mi objetivo es convertir esas ideas en soluciones concretas y efectivas que superen las expectativas.
+
+Mis habilidades incluyen:
+
+⚡ Desarrollo web Front-end utilizando HTML5, Taiwind CSS, JavaScript, React y AstroJs.
+
+⚡ Creación de sitios web receptivos y compatibles con dispositivos móviles.
+
+⚡ Diseño de interfaces de usuario (UI):
+  - Definición y creación de paletas de colores, tipografías, retículas y elementos de la interfaz que componen un Design System.
+  - Conocimiento de patrones de diseño para comprender como los usuarios perciben el diseño.
+  - Maquetación y prototipado de interfaces en alta fidelidad en programas como Adobe XD o Figma.
+
+⚡ Diseño UX centrado en el usuario y la usabilidad:
+  - Investigación de usuario y pruebas de usabilidad.
+  - Realización de cardsortings para definir la arquitectura de la información.
+  - Definición el userflow y  wireflows para visualizar la relación entre las diferentes pantallas.
+
+⚡ Optimización de rendimiento y velocidad.
+
+⚡ Colaboración activa y comunicación clara.
 
 ---
 ###  Tecnologías, Lenguajes y Frameworks
