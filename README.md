@@ -11,7 +11,7 @@ Soy Desarrollador Frontend y Diseñador UX/UI, caracterizado por el profundo int
 <a href="https://open.spotify.com/user/joaco-cortes96?si=11648968786741f3" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 <br>
-⚡ ¡Hola! Soy Joaquín, un apasionado desarrollador Front-end y diseñador UX/UI con aspiraciones de crear experiencias digitales excepcionales. Mi enfoque se basa en combinar el diseño innovador con una funcionalidad sólida para entregar soluciones digitales que cautiven a los usuarios y generen resultados tangibles.
+⚡ Mi enfoque se basa en combinar el diseño innovador con una funcionalidad sólida para entregar soluciones digitales que cautiven a los usuarios y generen resultados tangibles.
 
 A lo largo de los años, he tenido la oportunidad de trabajar en una amplia variedad de proyectos que me ha brindado una perspectiva única con la capacidad de adaptarme a diversos desafíos.
 
