@@ -32,7 +32,8 @@ Lo que me distingue es mi compromiso con la colaboración y la comunicación. Mi
 
 ---
 <br>
-Mis habilidades incluyen:
+
+### Mis habilidades incluyen:
 
 ⚡ Desarrollo web Front-end utilizando HTML5, Taiwind CSS, JavaScript, React y AstroJs.
 
