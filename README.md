@@ -1,8 +1,7 @@
 <h1 align='center'> Hola! Soy Joaquín Cortés👨‍💻 </h1>
-<div align="center"><h4>Este es mi Perfil de Github</h4>
 
 <p align='center'>
-Soy Programador Web</b> 
+Soy Desarrollador Frontend y Diseñador UX/UI, caracterizado por el profundo interés por la estética y la tecnología.  </b> 
 </p></div>
 
 <div align="center">
@@ -14,7 +13,7 @@ Soy Programador Web</b>
 <br>
 ⚡ ¡Hola! Soy Joaquín, un apasionado desarrollador Front-end y diseñador UX/UI con aspiraciones de crear experiencias digitales excepcionales. Mi enfoque se basa en combinar el diseño innovador con una funcionalidad sólida para entregar soluciones digitales que cautiven a los usuarios y generen resultados tangibles.
 
-Me caracteriza el profundo interés por la estética y la tecnología. A lo largo de los años, he tenido la oportunidad de trabajar en una amplia variedad de proyectos que me ha brindado una perspectiva única con la capacidad de adaptarme a diversos desafíos.
+A lo largo de los años, he tenido la oportunidad de trabajar en una amplia variedad de proyectos que me ha brindado una perspectiva única con la capacidad de adaptarme a diversos desafíos.
 
 Me enorgullece crear interfaces intuitivas y atractivas que guíen a los usuarios a través de un viaje fluido, mejorando la interacción y maximizando la satisfacción. Además, mi experiencia en desarrollo web me permite llevar mis diseños a la vida, utilizando tecnologías modernas para crear sitios web receptivos, optimizados y de alto rendimiento.
 
