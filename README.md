@@ -34,7 +34,7 @@ Lo que me distingue es mi compromiso con la colaboración y la comunicación. Mi
 <br>
 
 ### Mis habilidades incluyen:
-<div>
+<p>
 ⚡ Desarrollo web Front-end utilizando HTML5, Taiwind CSS, JavaScript, React y AstroJs.
 
 ⚡ Creación de sitios web receptivos y compatibles con dispositivos móviles.
@@ -52,8 +52,8 @@ Lo que me distingue es mi compromiso con la colaboración y la comunicación. Mi
 ⚡ Optimización de rendimiento y velocidad.
 
 ⚡ Colaboración activa y comunicación clara.
-</div>
-<br>
+</p>
+
 ---
 
 ###  Insignias ONE Alura Latam Challenges
